@@ -32,12 +32,16 @@ body {
 }
 
 #Burberry{
-  background: url(/images/burbs.jpeg);
+  background-image: url(/images/burbs.jpeg);
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   padding: 0;
+}
+
+#chorusbox{
+  background-image: url();
 }
 
 p {
