@@ -32,7 +32,7 @@ body {
 }
 
 #Burberry{
-  background: url(https://res.cloudinary.com/drda5zneo/image/upload/v1568230782/FB_IMG_15682140636163779_knptru.jpg);
+  background: url(/images/burbs.jpeg);
   background-size: cover;
   color: #fff;
   -webkit-text-fill-color: transparent;
