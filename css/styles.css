@@ -21,21 +21,14 @@ body {
   justify-content: center;
   align-items: center;
 }
-.verse1 bg {
+.bg1 {
   background-color: #ccc;
 }
-.chorus bg {
+.bg2 {
   background-color: #ff1739;
 }
-.talk bg {
+.bg3 {
   background-color: #cccaca;
-}
-.verse2 bg {
-  background-color: #5517ff;
-}
-
-.talk bg {
-  background-color: #17ff23;
 }
 
 
