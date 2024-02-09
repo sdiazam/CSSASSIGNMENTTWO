@@ -31,6 +31,14 @@ body {
   background-color: #cccaca;
 }
 
+#Burberry{
+  background: url(https://res.cloudinary.com/drda5zneo/image/upload/v1568230782/FB_IMG_15682140636163779_knptru.jpg);
+  background-size: cover;
+  color: #fff;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  padding: 0;
+}
 
 p {
   font-size: 40px;
