@@ -21,13 +21,25 @@ body {
   justify-content: center;
   align-items: center;
 }
-.bg1 {
+.verse1 bg {
   background-color: #ccc;
 }
-.bg2 {
-  background-color: #333;
+.chorus bg {
+  background-color: #ff1739;
 }
-h1 {
+.talk bg {
+  background-color: #cccaca;
+}
+.verse2 bg {
+  background-color: #5517ff;
+}
+
+.talk bg {
+  background-color: #17ff23;
+}
+
+
+p {
   font-size: 40px;
   line-height: 1.2;
   margin: 0;
