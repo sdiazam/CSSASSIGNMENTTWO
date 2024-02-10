@@ -28,6 +28,9 @@ body {
 .bg1 {
   background-color: #ffffff;
   background-image: url(https://raw.githubusercontent.com/sdiazam/CSSASSIGNMENTTWO/main/images/birdy.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .bg2 {
   background-color: #ff1739;
