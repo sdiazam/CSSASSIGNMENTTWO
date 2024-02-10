@@ -1,3 +1,5 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
 @import url("https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap");
 *,
 *:before,
@@ -11,6 +13,7 @@ body {
   font-weight: 300;
 }
 .section {
+  background-color: #006341;
   height: 100vh;
   width: 100%;
   position: relative;
@@ -18,17 +21,21 @@ body {
   text-align: center;
   overflow: hidden;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 .bg1 {
-  background-color: #ccc;
+  background-color: #ffffff;
+  background-image: url(https://raw.githubusercontent.com/sdiazam/CSSASSIGNMENTTWO/main/images/birdy.png);
 }
 .bg2 {
   background-color: #ff1739;
 }
-.bg3 {
-  background-color: #cccaca;
+
+span{
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: #000;
 }
 
 #Burberry{
@@ -40,9 +47,22 @@ body {
   padding: 0;
 }
 
-#chorusbox{
-  background-image: url(/images/pescado.png);
+#Fumando{
+  font-family: 'Honk', system-ui;
 }
+
+#Bunny{
+  color: #f36fbb;
+}
+
+#chorusbox{
+  background-image: url(https://raw.githubusercontent.com/sdiazam/CSSASSIGNMENTTWO/main/images/pescado.png);
+}
+
+#Dorada{
+  color: #FFD700;
+}
+
 
 p {
   font-size: 40px;
